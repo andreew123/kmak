@@ -10,10 +10,10 @@
         </ul>
         <ul class="navbar-nav">
             <li class="nav-item">
-                <a class="nav-link" href="/kmak/page/1">Első galéria</a>
+                <a class="nav-link text-danger" href="/kmak/page/1">Első galéria</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="/kmak/page/2">Második galéria</a>
+                <a class="nav-link text-danger" href="/kmak/page/2">Második galéria</a>
             </li>
         </ul>
     </div>
