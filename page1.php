@@ -1,5 +1,5 @@
 <main role="main" class="container">
-    <h2 class="mt-2"><?php echo $params['gallery_name']; ?></h2>
+    <h1 class="mt-2"><?php echo $params['gallery_name']; ?></h1>
     
     <div id="galleryController" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner mb-3">
