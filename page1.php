@@ -5,8 +5,7 @@
         <div class="carousel-inner mb-3">
             <?php foreach($params['files'] as $param) { ?>
                 <div class="carousel-item">
-                    <img class="d-block w-100" alt="Cinque Terre"
-                    src="<?=$param->filepath; ?>">
+                    <img class="d-block w-100 c-rounded" src="<?=$param->filepath; ?>">
                 </div>
             <?php } ?>
         </div>

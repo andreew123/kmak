@@ -17,3 +17,6 @@ body {
 .t-light {
   color: rgba(255,255,255,.5);
 }
+.c-rounded {
+    border-radius: 5px;
+}
